@@ -19,7 +19,7 @@ Créer un agent capable de trouver un **trésor** 🏆 dans une grille tout en �
   - Trésor 🏆 = **+10 points**.  
 - 🤖 **Apprentissage** : L’agent apprend par essais en jouant plusieurs parties.
 
-📜 _(Voir `devoir.png` pour une description complète et les règles.)_
+📜 _(Voir `TP_PDF/devoir.png` pour une description complète et les règles.)_
 
 ---
 
@@ -28,7 +28,7 @@ Créer un agent capable de trouver un **trésor** 🏆 dans une grille tout en �
 🎯 **Objectif :**  
 Introduire les bases de Python et comprendre les principes fondamentaux du Machine Learning.
 
-📜 _(Voir `TP01.pdf` pour les détails.)_
+📜 _(Voir `TP_pdf/TP01.pdf` pour les détails.)_
 
 ---
 
@@ -37,7 +37,7 @@ Introduire les bases de Python et comprendre les principes fondamentaux du Machi
 🎯 **Objectif :**  
 Explorer et implémenter des algorithmes de base en apprentissage supervisé et non supervisé.
 
-📜 _(Voir `TP02.pdf` pour les détails.)_
+📜 _(Voir `TP_pdf/TP02.pdf` pour les détails.)_
 
 ---
 
@@ -46,7 +46,7 @@ Explorer et implémenter des algorithmes de base en apprentissage supervisé et 
 🎯 **Objectif :**  
 Implémenter des algorithmes d'optimisation pour résoudre des problèmes complexes, avec un focus sur les méthodes efficaces.
 
-📜 _(Voir `TP3 (2).pdf` pour les détails.)_
+📜 _(Voir `TP_pdf/TP02.pdf` pour les détails.)_
 
 ---
 
@@ -55,7 +55,7 @@ Implémenter des algorithmes d'optimisation pour résoudre des problèmes comple
 🎯 **Objectif :**  
 Étudier et appliquer des techniques avancées d’apprentissage profond et par renforcement pour des environnements interactifs.
 
-📜 _(Voir `TP4 (2).pdf` pour les détails.)_
+📜 _(Voir `TP_pdf/TP04.pdf` pour les détails.)_
 
 ---
 
